@@ -3,7 +3,7 @@ name = "2026-p1-nvassie"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "nvassie",email = "nathanvassie1@gmail.com"}
+    {name = "nvassie",email = "n.vassie@student.uq.edu.au"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
